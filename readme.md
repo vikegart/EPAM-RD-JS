@@ -7,6 +7,8 @@
 
 * Example of base [tasks with patterns](https://github.com/vikegart/JSCore_Example) 
 
+* Example of [game with cycling, eventLoop, resourses](https://github.com/vikegart/game-sample)
+
 * [Compare, clone, eval and Inheritance](https://github.com/vikegart/RD_2019_JSGaps) ppt and code
 
 
